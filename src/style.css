@@ -55,8 +55,9 @@ main {
 }
 
 .weather-app-icon {
-  font-size: 44px;
-  margin-bottom: 30px;
+  font-size: 40px;
+  position: relative;
+  top: 15px;
 }
 
 .weather-app-temp {
